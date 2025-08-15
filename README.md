@@ -5,3 +5,6 @@
 
 ## Word Embeddings:
 https://medium.com/@harsh.vardhan7695/a-comprehensive-guide-to-word-embeddings-in-nlp-ee3f9e4663ed
+
+## Colah's blog LSTM
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
