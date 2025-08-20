@@ -8,3 +8,6 @@ https://medium.com/@harsh.vardhan7695/a-comprehensive-guide-to-word-embeddings-i
 
 ## Colah's blog LSTM
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+## Bidirectional RNN:
+https://d2l.ai/chapter_recurrent-modern/bi-rnn.html
