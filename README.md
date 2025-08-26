@@ -11,3 +11,9 @@ https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## Bidirectional RNN:
 https://d2l.ai/chapter_recurrent-modern/bi-rnn.html
+
+## Attention Mechanism:
+https://erdem.pl/2021/05/introduction-to-attention-mechanism
+
+## Transformers 
+https://jalammar.github.io/illustrated-transformer/
